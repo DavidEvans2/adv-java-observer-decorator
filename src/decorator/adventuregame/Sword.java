@@ -9,7 +9,7 @@ public class Sword extends CharacterDecorator {
 
     @Override
     public String getName() {
-        return character.getName() + ", Sword-Wielder";
+        return character.getName() + ", Wielder of Sting";
     }
 
     @Override
