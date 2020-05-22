@@ -32,5 +32,6 @@ public class GameTime {
         System.out.println("Your might has been increased!!!" +
                 Bilbo.getName() + " Might: " + Bilbo.getMight());
 
+
     }
 }
